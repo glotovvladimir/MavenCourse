@@ -1,0 +1,11 @@
+<suite name="TestAll">
+
+    <test name="order">
+        <classes>
+            <class name="tests.AppiumTest" />
+            <class name="tests.RESTAPITest" />
+            <class name="tests.SeleniumTest" />
+        </classes>
+    </test>
+
+</suite>
