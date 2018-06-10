@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 public class AppiumTest {
 
     @Test
-    public void nativeAppAndroid(){
+    public void nativeAppAndroid1(){
         System.out.println("Android");
     }
 
